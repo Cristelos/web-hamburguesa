@@ -50,11 +50,12 @@ header > div > a > img{
   }
   
   .link-item {
-    margin-top: 2rem;
-    color: #444444;
+    margin-top: 10rem;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
     position: relative;
+    padding: 25px;
   }
   
   .link-item::after {
